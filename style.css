@@ -1,0 +1,276 @@
+/*THis is my CSS save file for the My Home Website*/
+/*I will be making the styling for the websitein the following format*/
+/*Header, navigation, bubble, text*/
+
+/*The banner, menu, content one, event buttons,content two, footer*/
+.grid {
+	display: grid;
+	gap: 10px;
+	background-color: brown;
+	height: auto;
+	width: 100%;
+}
+	
+	
+.HeaderContain {
+	grid-column:1/ span 5;
+	grid-row: 2;
+}
+.BanneR{
+    padding: 1px yellow;
+	grid-column: 1/ span 5;
+	grid-row:1;
+	height: 85%;
+	width: 100%;
+}
+
+
+.MenuGUICONTAIN {
+	border:7px solid white;
+	grid-column:;
+	grid-row: 2;
+	background-color:pink;
+    display: inline;
+}
+
+.link {
+	display: inline;
+	padding: 5%;
+}
+/*
+inline {
+	display: inline;
+}
+*/
+MenuGUI {
+	display: inline;
+	grid-column:;
+	grid-row: 3;
+	
+}
+
+
+.vid-container {
+	padding:none;
+	margin: 10px;
+	border:10px solid green;
+	content: ;
+	}
+/*
+Menu-jar {
+	background-color: orange;
+	padding: 15px;
+	
+}*/
+.Menu {
+	display: inside;
+	margin: none;
+	background-color: brown;
+	
+	
+
+	
+	grid-row: 2;
+	
+}
+
+
+.tessaract {
+	gap: 10px;
+	margi 
+}
+.tessaract {}
+.pick
+.pick3 {
+	color: white;
+	background-color: brown;
+	gap:35px;
+	text-decoration: none;
+	margin:15px;
+	
+}
+#data2 {
+    color: white;
+	background-color: brown;
+	gap:35px;
+	text-decoration: none;
+	margin:15px;
+	
+}
+#data3 {
+	color: white;
+	background-color: brown;
+	gap:35px;
+	text-decoration: none;
+	margin:15px;
+
+}
+#data4 {
+	color: white;
+	background-color: brown;
+	gap:35px;
+	text-decoration: none;
+	margin:15px;
+
+}
+#datalast {}
+CONTExtre {
+	
+	border-style: box;
+	background-color: orange;
+	padding: 15px;
+	text-align: center;
+	
+}
+
+EVENT-LINE {
+	
+	margin: 1px;
+	height:80%;
+	width:200%;
+	gap: 20px;
+	grid-column: 1/ span 2;
+	grid-row: 4;
+	
+}
+/*
+li-menu {
+	text-align: center;
+	font-family: Times New Roman, Ariel, Callibri, Calibri Bold, Barrista;
+    padding: 10px;
+	color: white;
+	
+}
+*/
+li {
+	display: inline;
+	text-align: center;
+	padding: 20px solid ;
+	border: 5px;
+	
+	color: black;
+	gap: 35px;
+
+}
+
+a {
+  color:grey;
+  font-style: bold;
+  text-decoration: none;
+	
+}
+
+li:hover {
+	
+	color: white;
+	font-style: bold;
+	background-color: black;
+	border: 10px solid white;
+
+}
+/* I talk here about the excetera devices and what not*/
+
+vid-container {
+    position: absolute;
+	border: solid black;
+	
+}
+.li-main {
+	
+	background-color: black;
+	color: white;
+	font-family: TimesNewRoman, Calibri, Sans;
+}
+.BEISS {
+	
+	color: blue;
+	border:5px;
+	/*border-style: lined;*/
+	border-color: black;
+	border-style: smooth;
+	font-family: sans serif, TimesNewRoman, Calibri, Traveller;
+}
+.a:link {
+	color: yellow;
+	text-decoration: none;
+	
+	
+	
+}
+
+event {
+	border: 50px 50px;
+	border-color: black;
+	border-style: lined;
+	color: white;
+	text-align: center;
+	font-family: Callibri, Calibri, sans, Sans serif, TimesNewRoman, Arial;
+	font-size: 10px;
+	font-style: none;
+	
+}
+/*.menuIt {
+	float: left;
+	padding:10px;
+    color: brown;
+	border: 10px solid orange;
+}
+
+.active {
+	color:red;
+	background-color: brown;
+	padding:15px;
+	border-width: 15px;
+	border: 10px;
+	
+}
+.navigationmeNu {
+	grid-column: 1 /span 5;
+	grid-row: 1;
+}
+
+li:hover {
+	color:orange;
+	background-color: brown;
+	
+}
+
+li:hover:not {
+	color:white;
+	background-color:white;
+}
+
+li a:active {
+	color:orange;
+	background-color: brown;
+}
+
+.li a:inactive {
+	color:orangish;
+	background-color:purple;
+}
+
+.a (actedoixjxxxzn
+dckznccnc
+ccnzc
+cvmx,cxnc,
+xczcxzb
+chchdba
+dzhsdd
+sdadhdhas
+sabasjd
+sddxasn
+dsanas
+dsadasns
+dssadsa
+dsdasda
+dasdadas
+asdasd
+adaasd
+adas
+adda
+addad
+sadda
+sadasd
+
+
